@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reprodgen-leaderboard/static/css/main.77e5d7df.css",
+    "main.js": "/reprodgen-leaderboard/static/js/main.11e03050.js",
+    "index.html": "/reprodgen-leaderboard/index.html",
+    "main.77e5d7df.css.map": "/reprodgen-leaderboard/static/css/main.77e5d7df.css.map",
+    "main.11e03050.js.map": "/reprodgen-leaderboard/static/js/main.11e03050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e5d7df.css",
+    "static/js/main.11e03050.js"
+  ]
+}
